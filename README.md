@@ -24,11 +24,11 @@ The goal is to identify high-performing regions, categories, and uncover loss-ma
 
 ---
 
-## 📁 Files Included
-- `Project_2_Customer_Sales_Analysis.pbix` – Power BI dashboard file
-- `customer_sales_analysis_dashboard.png` – Dashboard screenshot
+## 📸 Dashboard Preview
+![Customer Sales Dashboard](customer_sales_analysis_dashboard.png)
 
 ---
 
-## 📸 Dashboard Preview
-![Customer Sales Dashboard](customer_sales_analysis_dashboard.png)
+## 📁 Files Included
+- `Project_2_Customer_Sales_Analysis.pbix` – Power BI dashboard file
+- `customer_sales_analysis_dashboard.png` – Dashboard screenshot
